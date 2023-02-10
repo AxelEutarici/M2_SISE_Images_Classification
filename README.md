@@ -6,12 +6,11 @@ Disponible également en français : <br>
 ## Summary
 
  - [State of art](#State-of-art)
- - [Github files](#Github-files)
- - [](#)
+ - [Github Files](#Github-Files)
 
 ## State of art 
 
-The work we did is a continuation of the work done by Cao and Choe in their 2018 paper "Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery" submitted to the INFORMS. Instead of using keras (and tensorflow) we used pytorch and torchvision to create our our CNN and implement pre trained models. 
+The work we did is a continuation of the work done by Cao and Choe in their 2018 paper "Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery" submitted to the INFORMS. Instead of using keras (and tensorflow) we used pytorch and torchvision to create our our CNN and implement pre trained models. <br>
 You can find their work and the datasets used here : https://github.com/qcao10/DamageDetection.
 
 

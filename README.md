@@ -1,7 +1,7 @@
 # Image Classification With Pytorch and Torchvision
 
 Disponible également en français : <br>
-[![fr](https://img.shields.io/badge/lang-français-green.svg)](https://github.com/AxelEutarici/SISE_Fraudes_Bancaires/blob/main/README.english.md)
+[![fr](https://img.shields.io/badge/lang-français-green.svg)](https://github.com/AxelEutarici/M2_SISE_Images_Classification/blob/main/README.fr.md)
 
 ## Summary
 

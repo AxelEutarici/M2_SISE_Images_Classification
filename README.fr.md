@@ -1,16 +1,16 @@
-# Image Classification With Pytorch and Torchvision
+# Classification d'Images avec Pytorch et Torchvision
 
 Disponible également en français : <br>
 [![fr](https://img.shields.io/badge/lang-english-red.svg)](https://github.com/AxelEutarici/M2_SISE_Images_Classification/blob/main/README.fr.md)
 
 ## Summary
 
- - [State of art](#State-of-art)
- - [Github files](#Github-files)
+ - [Etat de l'art](#Etat-de-l-art)
+ - [Fichiers GitHub](#Github-files)
 
-## State of art 
+## Etat de l'art 
 
-The work we did is a continuation of the work done by Cao and Choe in their 2018 paper "Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery" submitted to the INFORMS. Instead of using keras (and tensorflow) we used pytorch and torchvision to create our our CNN and implement pre trained models. <br>
+Le travail fourni est une continuation des travaux faits par Cao and Choe dans leur papier de 2018 "Deep Learning Based Damage Detection on Post-Hurricane Satellite Imagery" . Au lieu d'utiliser keras  Instead of using keras (and tensorflow) we used pytorch and torchvision to create our our CNN and implement pre trained models. <br>
 You can find their work and the datasets used here : https://github.com/qcao10/DamageDetection.
 
 
